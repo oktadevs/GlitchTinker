@@ -2,6 +2,7 @@
 // where your node app starts
 
 // init project
+console.log ("hi");
 const express = require('express');
 const app = express();
 
